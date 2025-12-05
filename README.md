@@ -62,11 +62,6 @@ Tools       VS Code, Git, GitHub
 
 ## ☄️ currently_learning
 
-
-<p align="center">
-  <img src="https://img.shields.io/badge/learning-purple_nebula-7c3aed?style=for-the-badge&labelColor=1e1035" />
-</p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Java-deeper_OOP-6d28d9?style=flat-square&labelColor=1e1035" />
   <img src="https://img.shields.io/badge/Python-automation_scripts-4c1d95?style=flat-square&labelColor=1e1035" />
