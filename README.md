@@ -62,9 +62,6 @@ Tools       VS Code, Git, GitHub
 
 ## ☄️ currently_learning
 
-- Java → deeper OOP
-- Python → automation scripts
-- JavaScript → weird UI ideas
 
 <p align="center">
   <img src="https://img.shields.io/badge/learning-purple_nebula-7c3aed?style=for-the-badge&labelColor=1e1035" />
