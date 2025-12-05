@@ -62,9 +62,9 @@ Tools       VS Code, Git, GitHub
 
 ## ☄️ currently_learning
 
-Java deeper OOP
-Python automation scripts
-JavaScript weird UI ideas
+- Java → deeper OOP
+- Python → automation scripts
+- JavaScript → weird UI ideas
 
 <p align="center">
   <img src="https://img.shields.io/badge/learning-purple_nebula-7c3aed?style=for-the-badge&labelColor=1e1035" />
@@ -81,11 +81,8 @@ JavaScript weird UI ideas
 ## 📊 mini_stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nyxar0th&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyxar0th&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/github/followers/Nyxar0th?style=for-the-badge&color=7c3aed&labelColor=111827&logo=github&logoColor=ffffff" />
+  <img src="https://img.shields.io/github/stars/Nyxar0th?affiliations=OWNER&style=for-the-badge&color=7c3aed&labelColor=111827&logo=github&logoColor=ffffff" />
 </p>
 
 <p align="center">⋆ ───── ✦ ───── ⋆</p>
