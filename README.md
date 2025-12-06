@@ -8,9 +8,9 @@ nyx@core:~$ whoami
 dev_nerd := {
   languages: ["ts", "js", "java", "py"],
   behaviors: {
-    daily_commits: true,
-    hop_projects: false,
-    overengineer: true,
+    daily_commits : true ,
+    hop_projects : false ,
+    overengineer : true ,
     vibe_coder: true
   },
   philosophy: null
