@@ -1,97 +1,116 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Nyxaroth&fontAlign=50&fontAlignY=40&color=a26bfa&fontColor=ffffff&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Nyxaroth&fontAlign=50&fontAlignY=40&color=a26bfa&fontColor=ffffff&section=header" />
 </p>
 
 <!-- TERMINAL INTRO -->
 <div align="center">
 
-### `~/boot/nyx.sh`
+<h3>~/boot/nyx.sh</h3>
 
-```text
-initializing persona...
-loading aesthetics...
-injecting purple.core...
-system online
+<pre>
+initializing modules...
+loading noir.minimal...
+applying purple.theme...
+env set → nyx_mode=true
 
 user:          Nyxaroth
-mode:          creative • focused • mildly chaotic
-current task:  building prettier systems
-status:        active
-```
+role:          developer • tinkerer • systems-mind
+focus:         building clean and intentional tools
+alignment:     minimal • purple • code-forward
+</pre>
 
 </div>
 
+<br>
+
+<!-- MINIMAL ANIMATED DIVIDER -->
 <p align="center">
-  <a href="mailto:nyxaroth.vt@gmail.com"><img src="https://img.shields.io/badge/email-a26bfa?style=for-the-badge&labelColor=111" /></a>
-  <a href="https://nyxaroth.vercel.app/"><img src="https://img.shields.io/badge/portfolio-a26bfa?style=for-the-badge&labelColor=111" /></a>
-  <a href="https://x.com/BgmiUpdateBot"><img src="https://img.shields.io/badge/bgmi%20bot-a26bfa?style=for-the-badge&labelColor=111" /></a>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="600" />
 </p>
 
 ---
 
 ## featured_projects
 
-Below are the projects that define my current work.  
-Click to expand.
-
 <details>
 <summary><strong>Nyx VS Code Theme</strong></summary>
 <br>
-A purple theme shaped around focus, readability and subtle glow.
+Minimal purple aesthetic designed for long coding sessions.
+Hand-tuned syntax colors and focused editing.
 
-<strong>Repo:</strong> https://github.com/Nyxar0th/Nyx_vsc_theme  
-<strong>Marketplace ID:</strong> <code>nyxar0th.nyx-purple-void</code>
+Repo → https://github.com/Nyxar0th/Nyx_vsc_theme  
+Marketplace ID → nyxar0th.nyx-purple-void
 </details>
 
 <details>
 <summary><strong>signal_studio</strong></summary>
 <br>
-A functional playground for exploring reactive patterns and UI logic.
+A functional playground for reactive patterns, signal flows and UI experiments.
 
-<strong>Live Site:</strong> https://signal-studio-bynyx.vercel.app/  
-<strong>Repo:</strong> https://github.com/Nyxar0th/signal_studio
+Live → https://signal-studio-bynyx.vercel.app/  
+Repo → https://github.com/Nyxar0th/signal_studio
 </details>
 
 <details>
 <summary><strong>BGMI Roster Bot (private)</strong></summary>
 <br>
-A private automation bot that posts roster transfers and updates on X.  
-Built for stability and real time monitoring.
+Automated roster-transfer notifier running on X.  
+Quiet, stable, designed for long uptime.
 
-<strong>Live Feed:</strong> https://x.com/BgmiUpdateBot
+Feed → https://x.com/BgmiUpdateBot
 </details>
 
 ---
 
-## custom_stats
+## code_showcase
 
-A curated set of stats based on actual activity and focus.
+<pre>
+// nyx.engine
+class System {
+  constructor(config) {
+    this.mode = config.mode ?? "silent";
+    this.purple = config.purple ?? true;
+  }
 
-<p align="center">
+  boot() {
+    return {
+      status: "online",
+      aesthetics: this.purple ? "purple.noir" : "default",
+      mode: this.mode,
+      timestamp: new Date().toISOString()
+    };
+  }
+}
 
-<strong>projects:</strong>      4 active<br>
-<strong>focus:</strong>         frontend, systems, aesthetics<br>
-<strong>workflow:</strong>      experiment → refine → release<br>
-<strong>style:</strong>         minimal, purple aligned, intentional<br>
-<strong>automation:</strong>    bgmi roster bot (private)<br>
-<strong>current stack:</strong> typescript • react • next • java • python  
+const nyx = new System({ mode: "focused", purple: true });
+nyx.boot();
+</pre>
 
-</p>
+Intentional, minimal and code-centric.
+
+---
+
+## what_im_building_now
+
+<pre>
+> tracking active modules...
+
+• refining signal_studio interactions
+• iterating on subtle design language for dev tools
+• shaping minimal purple-noir UI components
+• experimenting with micro automations (private)
+</pre>
 
 ---
 
 ## about
 
-I build things that feel intentional.  
-My portfolio holds the full story so this space stays clean.  
-GitHub is where the experiments, tools and polished ideas live.
+My portfolio holds the full visual identity.  
+This space stays minimal and technical.
 
-If you want the visual side of my work:  
-<strong>https://nyxaroth.vercel.app/</strong>
-
-If you want the functional side:  
-You are already here.
+Visual side → https://nyxaroth.vercel.app/  
+Functional side → you're already here.
 
 ---
 
