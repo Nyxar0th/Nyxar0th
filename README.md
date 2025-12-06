@@ -37,7 +37,6 @@ nyx@core:~$ status
 
 nyx@core:~$ contact
 email → nyxaroth.vt@gmail.com
-bgmi bot → https://x.com/BgmiUpdateBot
 
 nyx@core:~$ exit
 session closed
