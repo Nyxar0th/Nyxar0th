@@ -1,18 +1,9 @@
-<!-- HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=Nyxaroth&fontAlign=50&fontAlignY=40&color=a26bfa&fontColor=ffffff&section=header" />
-</p>
-
-> minimal purple noir  
-> terminal-driven profile • visuals live on the portfolio
 
 <!-- HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=Nyxaroth&fontAlign=50&fontAlignY=40&color=a26bfa&fontColor=ffffff&section=header" />
 </p>
 
-> minimal purple noir  
-> terminal-driven profile • visuals live on the portfolio
 
 ```shell
 nyx@core:~$ whoami
