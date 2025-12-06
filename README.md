@@ -8,7 +8,6 @@
 
 ```text
 nyx@core:~$ cat profile.txt
-```
 theme:          purple noir
 mode:           quiet but intentional
 location:       github profile
@@ -51,7 +50,7 @@ bgmi:  https://x.com/BgmiUpdateBot
 > exit
 
 session closed
-
+```
 class NyxSystem {
   constructor(
     private mode: "silent" | "focused" = "focused",
