@@ -8,41 +8,41 @@
 
 nyx@core:~$ cat profile.txt
 
-theme:          purple noir
-mode:           focused but quiet
-location:       github profile
+theme:          purple noir  
+mode:           focused but quiet  
+location:       github profile  
 
-> whoami
-creative developer who likes clean systems, small tools and intentional aesthetics
-treats code as something that should feel good to read and work with
+> whoami  
+creative developer who likes clean systems, small tools and intentional aesthetics  
+treats code as something that should feel good to read and work with  
 
-> projects
-1. Nyx VS Code Theme
-   - purple focused editor theme
-   - tuned for long sessions and clean contrast
+> projects  
+1. Nyx VS Code Theme  
+   - purple focused editor theme  
+   - tuned for long sessions and clean contrast  
 
-2. signal_studio
-   - playground for signals and reactive UI ideas
-   - experiments in TypeScript and component logic
+2. signal_studio  
+   - playground for signals and reactive UI ideas  
+   - experiments in TypeScript and component logic  
 
-3. BGMI Roster Bot (private)
-   - parses roster movement data and posts updates to X
-   - live feed: @BgmiUpdateBot
+3. BGMI Roster Bot (private)  
+   - parses roster movement data and posts updates to X  
+   - live feed: @BgmiUpdateBot  
 
-> portfolio
-url:  https://nyxaroth.vercel.app
-note: full visual identity and showcases live there
+> portfolio  
+url:  https://nyxaroth.vercel.app  
+note: full visual identity and showcases live there  
 
-> status
-- refining minimal noir design language
-- turning experiments into reusable components
-- iterating on signal_studio interactions
+> status  
+- refining minimal noir design language  
+- turning experiments into reusable components  
+- iterating on signal_studio interactions  
 
-> contact
-email: nyxaroth.vt@gmail.com
-bgmi:  https://x.com/BgmiUpdateBot
+> contact  
+email: nyxaroth.vt@gmail.com  
+bgmi:  https://x.com/BgmiUpdateBot  
 
-> exit
+> exit  
 session closed
 
 // code_showcase.ts
@@ -64,4 +64,3 @@ class NyxSystem {
 
 const nyx = new NyxSystem("focused", "purple_noir");
 nyx.boot();
-
