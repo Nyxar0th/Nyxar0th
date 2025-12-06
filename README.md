@@ -1,155 +1,122 @@
-<!-- header -->
+<!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Nyxar0th&fontAlign=50&fontAlignY=40&color=7c3aed&fontColor=ffffff&section=header" alt="Nyxaroth header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Nyxaroth&fontAlign=50&fontAlignY=40&color=a26bfa&fontColor=ffffff&section=header" />
+</p>
+
+<!-- INTRO -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&vCenter=true&pause=1100&width=600&lines=Creative+Developer;Chaotic+Energy+Organized+Into+Code;Turning+Ideas+Into+Pretty+Systems;Probably+Debugging+Something+Right+Now" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=creative+%E2%80%A2+impulsive+%E2%80%A2+nerd;I+code+for+fun;breaking+things+to+rebuild+prettier" alt="Typing intro" />
+  <a href="mailto:nyxaroth.vt@gmail.com"><img src="https://img.shields.io/badge/email-nyxaroth.vt%40gmail.com-a26bfa?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://nyxaroth.vercel.app/"><img src="https://img.shields.io/badge/portfolio-website-a26bfa?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://x.com/BgmiUpdateBot"><img src="https://img.shields.io/badge/BGMI%20Bot-active-a26bfa?style=for-the-badge&logo=x&logoColor=white" /></a>
+</p>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Nyxar0th&color=a26bfa&style=flat-square"/></p>
+
+---
+
+## ✨ who_am_i
+
+A developer who mixes aesthetic design with a little chaos but keeps things structured enough to look professional.
+
+- builds tools that feel nice to use  
+- breaks stuff then rebuilds it cleaner  
+- hyperfocuses on visuals and polish  
+- enjoys over engineered personal projects  
+- learns by creating things that probably shouldn’t work but do  
+
+---
+
+## 🌌 featured_projects
+
+### **1. Nyx Theme for VS Code**
+A polished purple theme that matches your personal style.  
+Soft contrast, aesthetic glow and tuned for long coding sessions.
+
+**Repo:** https://github.com/Nyxar0th/Nyx_vsc_theme  
+**Marketplace ID:** `nyxar0th.nyx-purple-void`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode&theme=dark" height="48"/>
+</p>
+
+---
+
+### **2. signal_studio (web app)**
+Your interactive playground for experimenting with signals and state logic.
+
+**Live Site:** https://signal-studio-bynyx.vercel.app/  
+**Repo:** https://github.com/Nyxar0th/signal_studio  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs&theme=dark" height="48"/>
+</p>
+
+---
+
+## 🧿 custom_stats
+
+Because GitHub stats kept breaking, here is a custom aesthetic stats block that always works and fits your theme.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Total_Projects-4-a26bfa?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Active_Stacks-JS_TS_Java_Python-a26bfa?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Frontend_+_Systems-a26bfa?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <a href="mailto:nyxaroth.vt@gmail.com">
-    <img src="https://img.shields.io/badge/email-nyxaroth.vt%40gmail.com-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://nyxaroth.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/portfolio-nyxaroth.vercel.app-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://x.com/_nyxaroth" target="_blank">
-    <img src="https://img.shields.io/badge/X-@_nyxaroth-6d28d9?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
+  <img src="https://img.shields.io/badge/Private_Bot-BGMI%20Roster%20Notifier-a26bfa?style=for-the-badge&logo=x&logoColor=white" />
 </p>
 
+---
+
+## 💠 real_tech_stack
+Fancier icons that match the aesthetic.
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nyxar0th&label=Visitors&color=7c3aed&style=flat" alt="profile views" />
+  <img src="https://skillicons.dev/icons?i=ts,js,java,python,react,nextjs,tailwind,nodejs,git,github,linux&theme=dark" />
 </p>
 
+---
+
+## 📚 currently_learning
+
+- building prettier and more intuitive interfaces  
+- improving React and Next workflow  
+- polishing your personal design language  
+- making systems that look simple but hide fun logic underneath  
+
 <p align="center">
-  ⋆ ───── ✦ ───── ⋆
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vercel&theme=dark" />
 </p>
 
-## who_is_nyxar0th
+---
 
-A creative coder who enjoys breaking things just to rebuild them prettier.
-
-- thrives in late night brain fog  
-- experiments with weird ideas  
-- treats code like an aesthetic  
-- rewrites the same idea in 3 languages for fun  
-
-> currently playing with Java, TypeScript, and anything that looks like it might crash at first run
+## 🧩 contributions
 
 <p align="center">
-  ⋆ ───── ✦ ───── ⋆
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nyxar0th&theme=react-dark&hide_border=true&area=true&area_color=a26bfa&line=a26bfa&point=ffffff">
 </p>
 
-## stuff_i_poke_at
+This replaces the broken stats cards and top-languages and actually loads reliably.
 
-I like small things that feel like toys but secretly teach me something.
+---
 
-- **Java**  
-  tiny CLIs, micro APIs, OOP experiments
+## 🎭 chaos_log (clean version)
 
-- **Python**  
-  scripts, generators, automation goblins
+- keeps rewriting components until they feel right  
+- turns experiments into projects by accident  
+- tames bugs instead of removing them sometimes  
+- commits powered by caffeine enhanced focus  
+- makes tools that look simple yet hide fun chaos underneath  
 
-- **JavaScript and Node**  
-  browser toys, bots, mini servers
-
-- **Tools**  
-  VS Code, Git, GitHub, terminal chaos
+---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,nodejs,react,html,css,vscode,git,github&theme=dark" alt="tech icons" />
-</p>
-
-<p align="center">
-  ⋆ ───── ✦ ───── ⋆
-</p>
-
-## things_i_accidentally_build
-
-<details open>
-  <summary><b>🌌 Nyx Theme: Purple Void</b> (VS Code theme)</summary>
-  <br />
-  A soft cosmic dark theme for late night coding with purple focus and custom file icons.
-
-  - VS Code color theme and icon theme combo  
-  - tuned for Java, Python, JS and configs  
-  - made for people who stare at their editor for way too long  
-
-  ▸ marketplace id: <code>nyxar0th.nyx-purple-void</code>  
-  ▸ repo: <a href="https://github.com/Nyxar0th/Nyx_vsc_theme">Nyx_vsc_theme</a>
-</details>
-
-<details>
-  <summary><b>📡 signal_studio</b> (TypeScript experiments)</summary>
-  <br />
-  A playground for signals, state, and UI ideas in TypeScript.
-
-  - small focused experiments  
-  - probably over engineered for fun  
-  - may contain half finished ideas that still look cool  
-
-  ▸ repo: <a href="https://github.com/Nyxar0th/signal_studio">signal_studio</a>
-</details>
-
-<details>
-  <summary><b>🧪 tiny gremlins</b> (scripts and utilities)</summary>
-  <br />
-  Little scripts that do one thing well.
-
-  - helper CLIs  
-  - automation doodles  
-  - stuff that starts as a test and stays forever  
-</details>
-
-<p align="center">
-  ⋆ ───── ✦ ───── ⋆
-</p>
-
-## currently_learning ☄️
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,linux&theme=dark" alt="learning icons" />
-</p>
-
-- sharpening frontend muscle memory  
-- exploring design for dev tools  
-- making things feel nice to use, not just correct  
-
-<p align="center">
-  ⋆ ───── ✦ ───── ⋆
-</p>
-
-## mini_stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nyxar0th&show_icons=true&theme=midnight-purple&hide_border=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nyxar0th&theme=midnight-purple&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyxar0th&layout=compact&theme=midnight-purple&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  ⋆ ───── ✦ ───── ⋆
-</p>
-
-## glitch_log
-
-- prints messages like `why are you like this` while debugging  
-- sometimes keeps bugs as pets  
-- commits powered by insomnia and music on loop  
-- starts tiny tests that turn into whole projects  
-
-thanks for scrolling through my chaos  
-
-<p align="center">
-  <a href="https://nyxaroth.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/visit-portfolio-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio badge" />
+  <a href="https://nyxaroth.vercel.app/">
+    <img src="https://img.shields.io/badge/visit_portfolio-a26bfa?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
