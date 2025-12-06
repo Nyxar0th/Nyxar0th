@@ -21,19 +21,6 @@ dev_nerd := {
   },
   philosophy: None
 }
-nyx@core:~$ projects
-
-1. Nyx VS Code Theme
-   purple-forward theme
-   tuned for clarity, contrast, and nerd happiness
-
-2. signal_studio
-   experiments in signal-based ui flows
-   typescript playground for reactive thinking
-
-3. BGMI Roster Bot (private)
-   parses roster data → formats into readable X updates
-   live feed: @BgmiUpdateBot
 
 nyx@core:~$ portfolio
 → https://nyxaroth.vercel.app
