@@ -1,55 +1,43 @@
-<!-- HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=Nyxaroth&fontAlign=50&fontAlignY=40&color=a26bfa&fontColor=ffffff&section=header" />
-</p>
-
-<div align="center">
-  <div style="font-family:'Fira Code', monospace; max-width:700px; text-align:left; color:#e5e7ff; background:#0b0319; border:1px solid #a26bfa; border-radius:12px; padding:14px; box-shadow:0 0 20px rgba(0,0,0,0.4);">
-
-    <div style="margin-bottom:8px; color:#9ca3af; font-size:12px;">
-      theme: purple noir (static preview)
-    </div>
-
-    <div style="background:#140726; padding:6px 10px; border-radius:8px; margin-bottom:10px; font-size:12px; color:#c4b5fd;">
-      ● ● ● &nbsp; nyxaroth · shell
-    </div>
-
-    <div><span style="color:#a855f7;">nyx@core</span>:~$ <span style="color:#fbbf24;">whoami</span></div>
-    <div>minimal dev mixing aesthetics with clean systems and small tools.</div>
-    <div>prefers intentional builds over noisy complexity.</div>
-
-    <br/>
-
-    <div><span style="color:#a855f7;">nyx@core</span>:~$ <span style="color:#fbbf24;">projects</span></div>
-    <div>- Nyx VS Code Theme</div>
-    <div>- signal_studio</div>
-    <div>- BGMI Roster Bot (private)</div>
-
-    <br/>
-
-    <div><span style="color:#a855f7;">nyx@core</span>:~$ <span style="color:#fbbf24;">open portfolio</span></div>
-    <div>→ <a href="https://nyxaroth.vercel.app" style="color:#c4b5fd; text-decoration:none;">https://nyxaroth.vercel.app</a></div>
-
-    <br/>
-
-    <div><span style="color:#a855f7;">nyx@core</span>:~$ <span style="color:#fbbf24;">status</span></div>
-    <div>- refining minimal noir aesthetic</div>
-    <div>- building reusable components</div>
-    <div>- enhancing signal_studio</div>
-
-    <br/>
-
-    <div><span style="color:#a855f7;">nyx@core</span>:~$ <span style="color:#fbbf24;">contact</span></div>
-    <div>email: <a href="mailto:nyxaroth.vt@gmail.com" style="color:#c4b5fd; text-decoration:none;">nyxaroth.vt@gmail.com</a></div>
-    <div>bgmi bot: <a href="https://x.com/BgmiUpdateBot" style="color:#c4b5fd; text-decoration:none;">@BgmiUpdateBot</a></div>
-
-    <br/>
-
-    <div><span style="color:#a855f7;">nyx@core</span>:~$ <span style="color:#fbbf24;">exit</span> █</div>
-
-  </div>
-
-  <p style="font-size:11px; color:#6b7280; margin-top:6px;">
-    → interactive terminal version: <a href="https://YOUR-LINK.com" style="color:#a26bfa;">launch here</a>
-  </p>
+<!-- HEADER --> 
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=Nyxaroth&fontAlign=50&fontAlignY=40&color=a26bfa&fontColor=ffffff&section=header" /> </p> <div align="center"> <div style="font-family:'Fira Code', monospace; max-width:700px; text-align:left; color:#e5e7ff; background:#0b0319; border:1px solid #a26bfa; border-radius:12px; padding:14px; box-shadow:0 0 20px rgba(0,0,0,0.4);">
+<div style="margin-bottom:8px; color:#9ca3af; font-size:12px;">
+  theme: purple noir (static preview)
 </div>
+
+<div style="background:#140726; padding:6px 10px; border-radius:8px; margin-bottom:10px; font-size:12px; color:#c4b5fd;">
+  ● ● ● &nbsp; nyxaroth · shell
+</div>
+
+<div><span style="color:#a855f7;">nyx@core</span>:~$ <span style="color:#fbbf24;">whoami</span></div>
+<div>minimal dev mixing aesthetics with clean systems and small tools.</div>
+<div>prefers intentional builds over noisy complexity.</div>
+
+<br/>
+
+<div><span style="color:#a855f7;">nyx@core</span>:~$ <span style="color:#fbbf24;">projects</span></div>
+<div>- Nyx VS Code Theme</div>
+<div>- signal_studio</div>
+<div>- BGMI Roster Bot (private)</div>
+
+<br/>
+
+<div><span style="color:#a855f7;">nyx@core</span>:~$ <span style="color:#fbbf24;">open portfolio</span></div>
+<div>→ <a href="https://nyxaroth.vercel.app" style="color:#c4b5fd; text-decoration:none;">https://nyxaroth.vercel.app</a></div>
+
+<br/>
+
+<div><span style="color:#a855f7;">nyx@core</span>:~$ <span style="color:#fbbf24;">status</span></div>
+<div>- refining minimal noir aesthetic</div>
+<div>- building reusable components</div>
+<div>- enhancing signal_studio</div>
+
+<br/>
+
+<div><span style="color:#a855f7;">nyx@core</span>:~$ <span style="color:#fbbf24;">contact</span></div>
+<div>email: <a href="mailto:nyxaroth.vt@gmail.com" style="color:#c4b5fd; text-decoration:none;">nyxaroth.vt@gmail.com</a></div>
+<div>bgmi bot: <a href="https://x.com/BgmiUpdateBot" style="color:#c4b5fd; text-decoration:none;">@BgmiUpdateBot</a></div>
+
+<br/>
+
+<div><span style="color:#a855f7;">nyx@core</span>:~$ <span style="color:#fbbf24;">exit</span> █</div>
+</div> <p style="font-size:11px; color:#6b7280; margin-top:6px;"> → interactive version: <a href="#" style="color:#a26bfa;">coming soon</a> </p> </div>
