@@ -3,47 +3,70 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=Nyxaroth&fontAlign=50&fontAlignY=40&color=a26bfa&fontColor=ffffff&section=header" />
 </p>
 
-<div align="center"> <div style=" font-family:'Fira Code', monospace; max-width:720px; background:#0b0319; border:1px solid #a26bfa; border-radius:12px; padding:20px; color:#e5e7ff; text-align:left; box-shadow:0 0 22px rgba(0,0,0,0.45); "> <div style="color:#9ca3af; font-size:12px; margin-bottom:10px;"> theme: purple noir • terminal view </div> <div style=" background:#140726; padding:6px 10px; border-radius:6px; margin-bottom:16px; font-size:12px; color:#c4b5fd;"> ● ● ● &nbsp; nyxaroth · shell </div>
+> minimal purple noir profile  
+> visuals live on the portfolio, logic lives here
 
-<span style="color:#a855f7;">nyx@core</span>:~$ whoami
-minimal dev mixing aesthetics with clean systems and small tools
-prefers intentional builds over noisy complexity
+```text
+nyx@core:~$ cat profile.txt
+```
+theme:          purple noir
+mode:           quiet but intentional
+location:       github profile
 
-<br><br>
+> whoami
 
-<span style="color:#a855f7;">nyx@core</span>:~$ projects
+creative developer who likes clean systems, small tools and good aesthetics
+treats code as something that should feel nice to read and work with
 
-Nyx VS Code Theme
+> projects
 
-signal_studio
+1. Nyx VS Code Theme
+   - purple focused editor theme
+   - tuned for long sessions and clear contrast
 
-BGMI Roster Bot (private)
+2. signal_studio
+   - playground for signals and reactive ideas
+   - experiments in TypeScript and UI logic
 
-<br>
+3. BGMI Roster Bot (private)
+   - tracks roster moves and posts to X
+   - live feed: @BgmiUpdateBot
 
-<span style="color:#a855f7;">nyx@core</span>:~$ open portfolio
-→ <a href="https://nyxaroth.vercel.app" style="color:#c4b5fd;">https://nyxaroth.vercel.app
-</a>
+> portfolio
 
-<br><br>
+url:  https://nyxaroth.vercel.app
+note: full visual identity and case studies live there
 
-<span style="color:#a855f7;">nyx@core</span>:~$ status
+> status
 
-refining minimal noir aesthetic
+- refining minimal noir design language
+- turning experiments into reusable components
+- iterating on signal_studio interactions
 
-building reusable components
+> contact
 
-enhancing signal_studio
+email: nyxaroth.vt@gmail.com
+bgmi:  https://x.com/BgmiUpdateBot
 
-<br><br>
+> exit
 
-<span style="color:#a855f7;">nyx@core</span>:~$ contact
-email → <a href="mailto:nyxaroth.vt@gmail.com" style="color:#c4b5fd;">nyxaroth.vt@gmail.com
-</a>
-bgmi bot → <a href="https://x.com/BgmiUpdateBot" style="color:#c4b5fd;">@BgmiUpdateBot</a>
+session closed
 
-<br><br>
+class NyxSystem {
+  constructor(
+    private mode: "silent" | "focused" = "focused",
+    private theme: "purple_noir" | "plain" = "purple_noir"
+  ) {}
 
-<span style="color:#a855f7;">nyx@core</span>:~$ exit █
+  boot() {
+    return {
+      status: "online",
+      mode: this.mode,
+      theme: this.theme,
+      timestamp: new Date().toISOString()
+    };
+  }
+}
 
-</div> </div>
+const nyx = new NyxSystem("focused", "purple_noir");
+nyx.boot();
