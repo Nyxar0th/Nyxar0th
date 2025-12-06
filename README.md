@@ -17,7 +17,7 @@ dev_nerd := {
     daily_commits : true
     hop_projects : false
     overengineer : true
-    vibe_coder: true
+    vibe_coder : true
   },
   philosophy: None
 }
