@@ -7,7 +7,7 @@
 
 ```shell
 nyx@core:~$ whoami
-creative developer with a taste for minimal noir aesthetics
+creative developer  who
 builds small tools, clean systems, and expressive interfaces
 focus: intentional design • strong structure • clarity over noise
 
