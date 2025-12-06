@@ -11,35 +11,38 @@
 
 ```shell
 nyx@core:~$ whoami
-creative developer
-builds small tools, clean systems, and expressive interfaces
-focus: intentional design • strong structure • clarity over noise
-
+dev_nerd := {
+  languages: ["ts", "js", "java", "py"],
+  behaviors: {
+    daily_commits : true,
+    hop_projects : false,
+    overengineer : true,
+    vibe_coder: true
+  },
+  philosophy: None
+}
 nyx@core:~$ projects
 
 1. Nyx VS Code Theme
-   a purple-focused editor theme with clean contrast
-   built for long sessions
+   purple-forward theme
+   tuned for clarity, contrast, and nerd happiness
 
 2. signal_studio
-   playground for signals and reactive UI patterns
-   experiments in TypeScript + component logic
+   experiments in signal-based ui flows
+   typescript playground for reactive thinking
 
 3. BGMI Roster Bot (private)
-   parses roster news → posts structured updates to X
+   parses roster data → formats into readable X updates
    live feed: @BgmiUpdateBot
 
 nyx@core:~$ portfolio
 → https://nyxaroth.vercel.app
-full visual identity • project writeups • case studies
+for visual identity
 
-nyx@core:~$ status
-- refining purple noir design language
-- evolving signal_studio features
-- shaping reusable components
-- maintaining BGMI bot quietly in the background
+nyx@core:~$ brain_dump
+- builds random ideas 
+- scripts everything that annoys me
+- prefers terminal clarity over long explanations
 
 nyx@core:~$ exit
 session closed
-
-```
