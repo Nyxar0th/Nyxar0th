@@ -48,7 +48,6 @@ session closed
 ```
 
 ```ts
-// code_showcase.ts
 class NyxSystem {
   constructor(
     private mode: "silent" | "focused" = "focused",
